@@ -86,9 +86,6 @@ Below are some screenshots illustrating the project structure and output. Make s
 ![Screenshot 3](./screenshots/Screenshot3.png)
 ```
 
-> *If you have a project demo video, you can upload it to a platform like YouTube or Vimeo and then link it here with a clickable thumbnail.*
-
-
 
 ## Reference
 
